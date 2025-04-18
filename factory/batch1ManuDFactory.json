@@ -1,0 +1,9 @@
+{
+	"name": "batch1ManuDFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0009bc0f-1819-4861-8d84-8460db5d0354",
+		"tenantId": "ed4a97da-7c80-4e00-8b25-5dc04aa76126"
+	}
+}
